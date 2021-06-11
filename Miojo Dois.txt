@@ -1,2 +1,2 @@
-// Adicionar receita
+// Receita Pastre
 A receita é fazer dois miojos
